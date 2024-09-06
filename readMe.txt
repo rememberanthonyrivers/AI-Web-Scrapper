@@ -14,3 +14,12 @@ LangChain: To connect the web scraping functionality with AI, making it easy to 
 Dynamic Web Scraping: Scrape websites with complex, dynamic content.
 AI-Powered Data Extraction: Use AI to retrieve specific data from the scraped content based on user prompts.
 Easy to Extend: The modular design allows you to extend the scraper to handle more complex tasks and integrate additional AI functionalities.
+
+
+
+To run application:
+
+    $ streamlit run main.py 
+
+
+*** The response is displayed within the CLI *** 
